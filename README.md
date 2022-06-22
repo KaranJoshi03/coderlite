@@ -1,5 +1,5 @@
 # coderlite
-Design Thinking workbook web interface.
+This repo is made to learn git.
 
 ### For the Devs
 This is main branch. **Never commmit to this branch.** Always create a local branch and raise a PR to merge it to dev branch first.
