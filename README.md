@@ -1,8 +1,5 @@
-# coderlite
-This repo is made to learn git.
+# Development branch
+This is the development branch where the development process is recorded and maintained.
 
-### For the Devs
-This is main branch. **Never commmit to this branch.** Always create a local branch and raise a PR to merge it to dev branch first.
-
-### Notes for future
-Please try to follow this [flow](https://cutt.ly/LImtgjI) in future
+#Note
+Do not directly commit to this branch.
